@@ -1,0 +1,10 @@
+{
+  "games": [
+    { "id": 1, "title": "Cyber Knights 2024", "genre": "Action RPG", "rating": "⭐⭐⭐⭐⭐", "price": "49000", "icon": "🤖" },
+    { "id": 2, "title": "Forest Quest", "genre": "Adventure", "rating": "⭐⭐⭐⭐⭐", "price": "29000", "icon": "🌲" },
+    { "id": 3, "title": "Space Odyssey", "genre": "Sci-Fi", "rating": "⭐⭐⭐⭐⭐", "price": "39000", "icon": "🚀" },
+    { "id": 4, "title": "Dragon's Realm", "genre": "Fantasy", "rating": "⭐⭐⭐⭐⭐", "price": "59000", "icon": "🐉" },
+    { "id": 5, "title": "Racing Thunder", "genre": "Racing", "rating": "⭐⭐⭐⭐⭐", "price": "34000", "icon": "🏎️" },
+    { "id": 6, "title": "Mystery Island", "genre": "Puzzle", "rating": "⭐⭐⭐⭐⭐", "price": "24000", "icon": "🏝️" }
+  ]
+}
